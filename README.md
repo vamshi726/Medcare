@@ -1,0 +1,2 @@
+# Medcare
+This website is designed in such a way that, it addresses all the needs as well as the wants that are prevailing in the domain of health care. This website has many features that can be highlighted like buying medicines from any of our favorite online vendors, fixing appointments with doctors, enabling a virtual meeting between a user or a patient and the doctor, locating a doctor who is available in our location, a doubt that assists all our queries 24/7 
